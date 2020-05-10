@@ -1,11 +1,5 @@
 import tensorflow as tf
-import numpy as numpy
-import cv2
 import numpy as np
-from re import sub as re_sub
-
-
-
 
 
 class ConstantWeightsInitializer(object):
